@@ -32,4 +32,4 @@ domain/index.php
 
 
 ## License
-The api-cheat-family-name-game library has an MIT license. You can read this file [LICENSE](LICENSE) for more information.
+The api-chistan library has an MIT license. You can read this file [LICENSE](LICENSE) for more information.
