@@ -2,7 +2,7 @@
 Receiving articles in Farsi language for entertainment use and Telegram bots.
 
 ## Source
-* [`index.php`](https://github.com/ehsan-shahbakhsh/api-chistan/blob/main/example/index.php)
+* [`index.php`](https://github.com/ehsan-shahbakhsh/api-chistan/blob/main/index.php)
 
 ## How to use
 ```
